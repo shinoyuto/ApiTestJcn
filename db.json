@@ -1,0 +1,74 @@
+{
+  "user-charge-transactions": [
+    {
+      "id": "Y0000000000100001061",
+      "機能1": " 利用者引落",
+      "transactionNumber": "Y0000000000100001061",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "1000000"
+    }
+  ],
+   "user-deposit-transactions": [
+    {
+      "id": "Y0000000000100001065",
+      "機能1": " 利用者入金",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "1000000"
+    }
+  ],
+
+  "company-charge-transactions": [
+    {
+      "id": "Y0000000000100001065",
+      "機能1": "収納企業引落",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "1000000"
+    }
+  ],
+  "company-deposit-transactions": [
+    {
+      "id": "Y0000000000100001065",
+      "機能1": " 収納企業入金",
+      "transactionNumber": "Y0000000000100001065",
+      "requestDateTime": "2020-02-20T12:34:56.789",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000",
+      "amount": "12345678900",
+      "tankingNumber": "00123",
+      "tankingBalance": "0"
+    }
+  ],
+  "transactions-cancel": [
+    {
+      "id": "Y0000000000100001065",
+      "機能": "障害取消",
+      "transactionNumber": "Y0000000000100001065",
+      "jcnApiSeqNumber": "20191212143219103010",
+      "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
+      "resultCode": "000000",
+      "localResponseCode": "000"
+    }
+  ]
+}
