@@ -8,7 +8,7 @@
       "jcnApiSeqNumber": "20191212143219103010",
       "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
       "resultCode": "000000",
-      "localResponseCode": "G85",
+      "localResponseCode": "000",
       "amount": "12345678900",
       "tankingNumber": "00123",
       "tankingBalance": "1000000"
@@ -23,7 +23,7 @@
       "jcnApiSeqNumber": "20191212143219103010",
       "jcnReceiveDateTime": "2020-02-20T12:34:56.789",
       "resultCode": "000000",
-      "localResponseCode": "G85",
+      "localResponseCode": "000",
       "amount": "12345678900",
       "tankingNumber": "00123",
       "tankingBalance": "1000000"
